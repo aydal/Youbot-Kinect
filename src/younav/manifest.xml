@@ -1,0 +1,14 @@
+<package>
+  <description brief="younav">
+
+     younav
+
+  </description>
+  <author>Youbot</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/younav</url>
+
+</package>
+
+
